@@ -1,0 +1,15 @@
+title: AIMOWAY Blog
+description: Articles and insights on AI models, agents, APIs, and production workflows.
+author: AIMOWAY
+
+url: "https://aimoway-lab.github.io"
+baseurl: "/blog"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+show_excerpts: true
