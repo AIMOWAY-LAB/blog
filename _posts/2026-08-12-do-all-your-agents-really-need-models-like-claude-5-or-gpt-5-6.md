@@ -103,7 +103,7 @@ Suppose an agent system makes 10,000 model calls per day, or about 300,000 calls
 * 2,000 input tokens;
 * 500 output tokens.
 
-Rather than compare unrelated products from different vendors, consider three models from the same family. At the time of writing, the standard API prices for GPT-5.6 Sol, Terra, and Luna provide a convenient example:
+Rather than compare unrelated products from different vendors, consider three models from the same family. At the time of writing, the standard short-context API prices for GPT-5.6 Sol, Terra, and Luna provide a convenient example:
 
 | Model         | Role in This Example | Input per 1M Tokens | Output per 1M Tokens | Cost per Average Call |
 | ------------- | -------------------- | ------------------: | -------------------: | --------------------: |
